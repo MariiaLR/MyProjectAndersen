@@ -1,0 +1,3 @@
+stash@{0}: WIP on HelloJava: a78c038 hello world
+stash@{1}: WIP on HelloJava: 2ea8018 hello java
+stash@{2}: WIP on HelloJava: 5fef078 hello world
